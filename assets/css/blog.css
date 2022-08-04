@@ -1,0 +1,18 @@
+.fundo-color {
+    background-color: black;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .text-card {
+    font-size: 25px;
+  }
+
+  .text.data {
+    font-size: 12px;
+  }
+
+  
